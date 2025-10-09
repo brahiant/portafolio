@@ -15,6 +15,34 @@ const cursos = [
         year: "2025",
         description: "Testing avanzado para aplicaciones Spring Boot con JUnit y Mockito"
     },
+    {
+        title: "Curso Práctico de Storage en AWS",
+        platform: "Platzi",
+        date: "Octubre 2025",
+        year: "2025",
+        description: "Servicios y prácticas de almacenamiento en AWS (S3, versiones y políticas)"
+    },
+    {
+        title: "Curso de GitHub Actions",
+        platform: "Platzi",
+        date: "Octubre 2025",
+        year: "2025",
+        description: "Automatización CI/CD con GitHub Actions y Workflows"
+    },
+    {
+        title: "Curso de Java Spring Boot",
+        platform: "Platzi",
+        date: "Octubre 2025",
+        year: "2025",
+        description: "Construcción de APIs y servicios con Spring Boot"
+    },
+    {
+        title: "Curso Práctico de AWS: Roles y Seguridad con IAM",
+        platform: "Platzi",
+        date: "Septiembre 2025",
+        year: "2025",
+        description: "Gestión de identidades, permisos y roles con AWS IAM"
+    },
     
     // 2024
     {
